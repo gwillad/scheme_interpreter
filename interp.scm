@@ -167,4 +167,5 @@
           (display "\n")
           (repl)))))
 
-;;(display "\nENTERING GWILL'S INTERPRETER\n")
+(display "\nENTERING GWILL'S INTERPRETER\n")
+(repl)
